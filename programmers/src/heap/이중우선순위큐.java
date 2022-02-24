@@ -4,12 +4,6 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class 이중우선순위큐 {
-    public static void main(String[] args) {
-        이중우선순위큐 s = new 이중우선순위큐();
-
-
-    }
-
 
     public int[] solution(String[] operations) {
         int[] answer = {0,0};
